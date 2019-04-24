@@ -6,3 +6,6 @@ ZTE-competition-code\omp
 我现在用的还是omp(sp和omp性能相近)，单纯增加了稀疏度    
 多径增益随着延迟呈现指数衰减？   
 matlab filtfilt滤波很好用  时间上无平移
+![image](https://github.com/All-World/ZTE-channel-estimate-competition2019/tree/master/image/one.jpg)     
+![image](https://github.com/All-World/ZTE-channel-estimate-competition2019/tree/master/image/two.jpg)       
+![image](https://github.com/All-World/ZTE-channel-estimate-competition2019/tree/master/image/three.jpg)    
